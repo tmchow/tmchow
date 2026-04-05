@@ -4,6 +4,10 @@
 ## Social Links
 [website](https://trev.in)  •  [github](https://github.com/tmchow)  •  [threads](https://threads.net/trevin)  •  [twitter](https://x.com/trevin)
 
+## Maintaining
+
+[![GitHub stars](https://img.shields.io/github/stars/EveryInc/compound-engineering-plugin?style=flat&color=gold)](https://github.com/EveryInc/compound-engineering-plugin) [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Claude Code plugin for compound engineering workflows
+
 ## Contributing to
 
 [![GitHub stars](https://img.shields.io/github/stars/HeyPuter/puter?style=flat&color=gold)](https://github.com/HeyPuter/puter) [HeyPuter/puter](https://github.com/HeyPuter/puter) - kv.list() pagination playground example
@@ -11,8 +15,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/lightpanda-io/browser?style=flat&color=gold)](https://github.com/lightpanda-io/browser) [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - propagate keyUp and char keyboard events to JS listeners
 
 [![GitHub stars](https://img.shields.io/github/stars/siddharthvaddem/openscreen?style=flat&color=gold)](https://github.com/siddharthvaddem/openscreen) [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - embed AppImage update information for delta updates
-
-[![GitHub stars](https://img.shields.io/github/stars/EveryInc/compound-engineering-plugin?style=flat&color=gold)](https://github.com/EveryInc/compound-engineering-plugin) [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - track-based schema for learnings, conditional visual aids for PR descriptions, interactive plan deepening
 
 [![GitHub stars](https://img.shields.io/github/stars/mdn/content?style=flat&color=gold)](https://github.com/mdn/content) [mdn/content](https://github.com/mdn/content) - module reference corrections in the Modules guide
 
