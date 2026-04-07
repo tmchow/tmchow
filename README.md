@@ -7,7 +7,7 @@
 ## Maintaining
 
 [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) [![GitHub stars](https://img.shields.io/github/stars/EveryInc/compound-engineering-plugin?style=flat&color=gold)](https://github.com/EveryInc/compound-engineering-plugin)
-<br>Office Compound Engineering plugin for Claude Code, Codex, and more
+<br>Official Compound Engineering plugin for Claude Code, Codex, and more
 
 ## Contributing to
 
@@ -38,11 +38,11 @@
 [home-assistant/frontend](https://github.com/home-assistant/frontend) [![GitHub stars](https://img.shields.io/github/stars/home-assistant/frontend?style=flat&color=gold)](https://github.com/home-assistant/frontend)
 <br>orphaned label references in device list, Voice Assistants expose page TypeError
 
+[JackChen-me/open-multi-agent](https://github.com/JackChen-me/open-multi-agent) [![GitHub stars](https://img.shields.io/github/stars/JackChen-me/open-multi-agent?style=flat&color=gold)](https://github.com/JackChen-me/open-multi-agent)
+<br>llama.cpp server local model provider
+
 [vllm-project/aibrix](https://github.com/vllm-project/aibrix)
 <br>strconv refactoring, io.ReadAll error handling, response header processing
-
-[JackChen-me/open-multi-agent](https://github.com/JackChen-me/open-multi-agent)
-<br>llama.cpp server local model provider
 
 [Martian-Engineering/lossless-claw](https://github.com/Martian-Engineering/lossless-claw)
 <br>preserve text block structure in large toolResult content, backfill tool call metadata
@@ -83,4 +83,4 @@
 [kroxylicious/kroxylicious](https://github.com/kroxylicious/kroxylicious)
 <br>cognitive complexity reduction in AclAuthorizer
 
-*Last updated: 2026-04-05*
+*Last updated: 2026-04-06*
