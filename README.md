@@ -6,51 +6,54 @@
 
 ## Maintaining
 
-[EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) [![GitHub stars](https://img.shields.io/github/stars/EveryInc/compound-engineering-plugin?style=flat&color=gold)](https://github.com/EveryInc/compound-engineering-plugin)
+[EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/EveryInc/compound-engineering-plugin?style=flat&color=gold)](https://github.com/EveryInc/compound-engineering-plugin)</sub></sub>
 <br>Official Compound Engineering plugin for Claude Code, Codex, and more
 
 ## Contributing to
 
-[HeyPuter/puter](https://github.com/HeyPuter/puter) [![GitHub stars](https://img.shields.io/github/stars/HeyPuter/puter?style=flat&color=gold)](https://github.com/HeyPuter/puter)
+[HeyPuter/puter](https://github.com/HeyPuter/puter) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/HeyPuter/puter?style=flat&color=gold)](https://github.com/HeyPuter/puter)</sub></sub>
 <br>kv.list() pagination playground example
 
-[DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) [![GitHub stars](https://img.shields.io/github/stars/DioxusLabs/dioxus?style=flat&color=gold)](https://github.com/DioxusLabs/dioxus)
+[DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/DioxusLabs/dioxus?style=flat&color=gold)](https://github.com/DioxusLabs/dioxus)</sub></sub>
 <br>blanket IntoAttributeValue impl for references
 
-[grafana/loki](https://github.com/grafana/loki) [![GitHub stars](https://img.shields.io/github/stars/grafana/loki?style=flat&color=gold)](https://github.com/grafana/loki)
+[grafana/loki](https://github.com/grafana/loki) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/grafana/loki?style=flat&color=gold)](https://github.com/grafana/loki)</sub></sub>
 <br>query parameter integer overflow handling
 
-[lightpanda-io/browser](https://github.com/lightpanda-io/browser) [![GitHub stars](https://img.shields.io/github/stars/lightpanda-io/browser?style=flat&color=gold)](https://github.com/lightpanda-io/browser)
+[lightpanda-io/browser](https://github.com/lightpanda-io/browser) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/lightpanda-io/browser?style=flat&color=gold)](https://github.com/lightpanda-io/browser)</sub></sub>
 <br>keyUp/char keyboard event propagation, Page.javascriptDialogOpening CDP events
 
-[actualbudget/actual](https://github.com/actualbudget/actual) [![GitHub stars](https://img.shields.io/github/stars/actualbudget/actual?style=flat&color=gold)](https://github.com/actualbudget/actual)
+[actualbudget/actual](https://github.com/actualbudget/actual) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/actualbudget/actual?style=flat&color=gold)](https://github.com/actualbudget/actual)</sub></sub>
 <br>custom report editor unsaved settings retention
 
-[siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) [![GitHub stars](https://img.shields.io/github/stars/siddharthvaddem/openscreen?style=flat&color=gold)](https://github.com/siddharthvaddem/openscreen)
+[siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/siddharthvaddem/openscreen?style=flat&color=gold)](https://github.com/siddharthvaddem/openscreen)</sub></sub>
 <br>embed AppImage update information for delta updates
 
-[spicetify/cli](https://github.com/spicetify/cli) [![GitHub stars](https://img.shields.io/github/stars/spicetify/cli?style=flat&color=gold)](https://github.com/spicetify/cli)
+[spicetify/cli](https://github.com/spicetify/cli) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/spicetify/cli?style=flat&color=gold)](https://github.com/spicetify/cli)</sub></sub>
 <br>SVGIcons additions from Spotify's current UI
 
-[mdn/content](https://github.com/mdn/content) [![GitHub stars](https://img.shields.io/github/stars/mdn/content?style=flat&color=gold)](https://github.com/mdn/content)
+[openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/openai/codex-plugin-cc?style=flat&color=gold)](https://github.com/openai/codex-plugin-cc)</sub></sub>
+<br>graceful thread naming fallback for older Codex CLI versions
+
+[mdn/content](https://github.com/mdn/content) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/mdn/content?style=flat&color=gold)](https://github.com/mdn/content)</sub></sub>
 <br>module reference corrections in the Modules guide
 
-[home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) [![GitHub stars](https://img.shields.io/github/stars/home-assistant/home-assistant.io?style=flat&color=gold)](https://github.com/home-assistant/home-assistant.io)
+[home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/home-assistant/home-assistant.io?style=flat&color=gold)](https://github.com/home-assistant/home-assistant.io)</sub></sub>
 <br>REST integration examples, remap() parameter defaults, automation templating
 
-[ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) [![GitHub stars](https://img.shields.io/github/stars/ghostfolio/ghostfolio?style=flat&color=gold)](https://github.com/ghostfolio/ghostfolio)
+[ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/ghostfolio/ghostfolio?style=flat&color=gold)](https://github.com/ghostfolio/ghostfolio)</sub></sub>
 <br>eliminate OnDestroy lifecycle hook from markets page component
 
-[raycast/extensions](https://github.com/raycast/extensions) [![GitHub stars](https://img.shields.io/github/stars/raycast/extensions?style=flat&color=gold)](https://github.com/raycast/extensions)
+[raycast/extensions](https://github.com/raycast/extensions) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/raycast/extensions?style=flat&color=gold)](https://github.com/raycast/extensions)</sub></sub>
 <br>Quit Applications process error handling, wrap-text clipboard race condition, Prompts.chat API field rename
 
-[go-git/go-git](https://github.com/go-git/go-git) [![GitHub stars](https://img.shields.io/github/stars/go-git/go-git?style=flat&color=gold)](https://github.com/go-git/go-git)
+[go-git/go-git](https://github.com/go-git/go-git) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/go-git/go-git?style=flat&color=gold)](https://github.com/go-git/go-git)</sub></sub>
 <br>DeleteBranch with full ref names, Worktree.Add with absolute paths
 
-[home-assistant/frontend](https://github.com/home-assistant/frontend) [![GitHub stars](https://img.shields.io/github/stars/home-assistant/frontend?style=flat&color=gold)](https://github.com/home-assistant/frontend)
+[home-assistant/frontend](https://github.com/home-assistant/frontend) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/home-assistant/frontend?style=flat&color=gold)](https://github.com/home-assistant/frontend)</sub></sub>
 <br>orphaned label references in device list, Voice Assistants expose page TypeError
 
-[JackChen-me/open-multi-agent](https://github.com/JackChen-me/open-multi-agent) [![GitHub stars](https://img.shields.io/github/stars/JackChen-me/open-multi-agent?style=flat&color=gold)](https://github.com/JackChen-me/open-multi-agent)
+[JackChen-me/open-multi-agent](https://github.com/JackChen-me/open-multi-agent) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/JackChen-me/open-multi-agent?style=flat&color=gold)](https://github.com/JackChen-me/open-multi-agent)</sub></sub>
 <br>llama.cpp server local model provider
 
 [vllm-project/aibrix](https://github.com/vllm-project/aibrix)
