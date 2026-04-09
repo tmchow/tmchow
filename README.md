@@ -56,23 +56,38 @@
 [JackChen-me/open-multi-agent](https://github.com/JackChen-me/open-multi-agent) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/JackChen-me/open-multi-agent?style=flat&color=gold)](https://github.com/JackChen-me/open-multi-agent)</sub></sub>
 <br>llama.cpp server local model provider
 
+[hectorvent/floci](https://github.com/hectorvent/floci)
+<br>CloudWatch Logs tagging support (ListTagsForResource, TagResource, UntagResource)
+
+[redis/rueidis](https://github.com/redis/rueidis)
+<br>ZRange Rev+ByScore/ByLex Start/Stop parameter ordering
+
 [vllm-project/aibrix](https://github.com/vllm-project/aibrix)
 <br>strconv refactoring, io.ReadAll error handling, response header processing
 
 [Martian-Engineering/lossless-claw](https://github.com/Martian-Engineering/lossless-claw)
 <br>preserve text block structure in large toolResult content, backfill tool call metadata
 
+[Redocly/redocly-cli](https://github.com/Redocly/redocly-cli)
+<br>excludedPaths option for no-http-verbs-in-paths rule
+
 [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim)
 <br>Blob value coercion in format_file_display
+
+[mcpjungle/MCPJungle](https://github.com/mcpjungle/MCPJungle)
+<br>default MCP server init timeout increase with env var surfacing
 
 [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade)
 <br>gup exclude config
 
+[fynnfluegge/agtx](https://github.com/fynnfluegge/agtx)
+<br>llms.txt and llms-full.txt for LLM-friendly project context
+
 [dagucloud/dagu](https://github.com/dagucloud/dagu)
 <br>misleading cron step value warnings
 
-[hectorvent/floci](https://github.com/hectorvent/floci)
-<br>CloudWatch Logs tagging support (ListTagsForResource, TagResource, UntagResource)
+[gethopp/hopp](https://github.com/gethopp/hopp)
+<br>native scrollbar visibility on macOS with external mouse
 
 [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold)
 <br>bulk action buttons above problems table
@@ -80,11 +95,11 @@
 [stacklok/toolhive](https://github.com/stacklok/toolhive)
 <br>Ready printer column for MCPRemoteProxy CRD, CRD Conditions listType annotations
 
-[rabbitmq/internals](https://github.com/rabbitmq/internals)
-<br>variable_queue documentation corrections
-
 [Agent-Field/agentfield](https://github.com/Agent-Field/agentfield)
 <br>per-execution LLM cost tracking, OpenTelemetry distributed tracing export
+
+[rabbitmq/internals](https://github.com/rabbitmq/internals)
+<br>variable_queue documentation corrections
 
 [ONEARMY/community-platform](https://github.com/ONEARMY/community-platform)
 <br>FieldTextarea minWidth container sizing
@@ -122,4 +137,4 @@
 [kroxylicious/kroxylicious](https://github.com/kroxylicious/kroxylicious)
 <br>cognitive complexity reduction in AclAuthorizer
 
-*Last updated: 2026-04-08*
+*Last updated: 2026-04-09*
