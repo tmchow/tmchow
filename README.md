@@ -137,4 +137,46 @@
 [kroxylicious/kroxylicious](https://github.com/kroxylicious/kroxylicious)
 <br>cognitive complexity reduction in AclAuthorizer
 
-*Last updated: 2026-04-09*
+[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/NousResearch/hermes-agent?style=flat&color=gold)](https://github.com/NousResearch/hermes-agent)</sub></sub>
+<br>launchctl kickstart/kill migration from deprecated start/stop in macOS gateway
+
+[rtk-ai/rtk](https://github.com/rtk-ai/rtk) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/rtk-ai/rtk?style=flat&color=gold)](https://github.com/rtk-ai/rtk)</sub></sub>
+<br>package-level test failure reporting for timeouts and signals in go test summary
+
+[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/mvanhorn/last30days-skill?style=flat&color=gold)](https://github.com/mvanhorn/last30days-skill)</sub></sub>
+<br>test env isolation, updatable column validation, bluesky session token expiry handling
+
+[MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/MODSetter/SurfSense?style=flat&color=gold)](https://github.com/MODSetter/SurfSense)</sub></sub>
+<br>dead MorePagesDialog removal, unnecessary "use client" pruning from pricing-section
+
+[unit8co/darts](https://github.com/unit8co/darts) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/unit8co/darts?style=flat&color=gold)](https://github.com/unit8co/darts)</sub></sub>
+<br>StatsForecastModel accepts model as string or class
+
+[gardener/gardener](https://github.com/gardener/gardener)
+<br>Gomega MatchError migration from kubernetesErrors helper
+
+[shopware/shopware](https://github.com/shopware/shopware)
+<br>twig block for image gallery placeholder icon
+
+[embox/embox](https://github.com/embox/embox)
+<br>tests/libc bzero() coverage
+
+[lfortran/lfortran](https://github.com/lfortran/lfortran)
+<br>typo corrections in error messages and variable names
+
+[OSGeo/grass](https://github.com/OSGeo/grass)
+<br>auto-seed rand() when no seed provided to grass.script.raster
+
+[seddonym/import-linter](https://github.com/seddonym/import-linter)
+<br>clear error when root_package is a single-file module
+
+[bytechefhq/bytechef](https://github.com/bytechefhq/bytechef)
+<br>LoaderNotification consolidation into shared LoadingIndicator
+
+[earthaccess-dev/earthaccess](https://github.com/earthaccess-dev/earthaccess)
+<br>dedicated Supported By page with Zulip acknowledgement
+
+[kabirdos/insight-harness](https://github.com/kabirdos/insight-harness)
+<br>prune heavy dirs in extract_permissions_profile to avoid multi-minute hang
+
+*Last updated: 2026-04-16*
