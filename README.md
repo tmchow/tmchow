@@ -14,6 +14,9 @@
 [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/NousResearch/hermes-agent?style=flat&color=gold)](https://github.com/NousResearch/hermes-agent)</sub></sub>
 <br>launchctl kickstart/kill migration from deprecated start/stop in macOS gateway
 
+[sharkdp/fd](https://github.com/sharkdp/fd) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/sharkdp/fd?style=flat&color=gold)](https://github.com/sharkdp/fd)</sub></sub>
+<br>--ignore-parent option to override --no-ignore-parent
+
 [HeyPuter/puter](https://github.com/HeyPuter/puter) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/HeyPuter/puter?style=flat&color=gold)](https://github.com/HeyPuter/puter)</sub></sub>
 <br>kv.list() pagination playground example
 
@@ -23,14 +26,14 @@
 [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/siddharthvaddem/openscreen?style=flat&color=gold)](https://github.com/siddharthvaddem/openscreen)</sub></sub>
 <br>embed AppImage update information for delta updates
 
+[rtk-ai/rtk](https://github.com/rtk-ai/rtk) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/rtk-ai/rtk?style=flat&color=gold)](https://github.com/rtk-ai/rtk)</sub></sub>
+<br>package-level test failure reporting for timeouts and signals in go test summary
+
 [lightpanda-io/browser](https://github.com/lightpanda-io/browser) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/lightpanda-io/browser?style=flat&color=gold)](https://github.com/lightpanda-io/browser)</sub></sub>
 <br>keyUp/char keyboard event propagation, Page.javascriptDialogOpening CDP events
 
 [grafana/loki](https://github.com/grafana/loki) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/grafana/loki?style=flat&color=gold)](https://github.com/grafana/loki)</sub></sub>
 <br>query parameter integer overflow handling
-
-[rtk-ai/rtk](https://github.com/rtk-ai/rtk) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/rtk-ai/rtk?style=flat&color=gold)](https://github.com/rtk-ai/rtk)</sub></sub>
-<br>package-level test failure reporting for timeouts and signals in go test summary
 
 [actualbudget/actual](https://github.com/actualbudget/actual) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/actualbudget/actual?style=flat&color=gold)](https://github.com/actualbudget/actual)</sub></sub>
 <br>custom report editor unsaved settings retention
@@ -98,6 +101,12 @@
 [redis/rueidis](https://github.com/redis/rueidis)
 <br>ZRange Rev+ByScore/ByLex Start/Stop parameter ordering
 
+[Taiko2k/Tauon](https://github.com/Taiko2k/Tauon)
+<br>tooltip height scales with gui.scale, Jellyfin URL normalization for trailing slashes
+
+[trustgraph-ai/trustgraph](https://github.com/trustgraph-ai/trustgraph)
+<br>timezone-aware datetime.now migration from deprecated datetime.utcnow
+
 [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold)
 <br>bulk action buttons above problems table
 
@@ -115,6 +124,9 @@
 
 [Redocly/redocly-cli](https://github.com/Redocly/redocly-cli)
 <br>excludedPaths option for no-http-verbs-in-paths rule
+
+[pg-sharding/spqr](https://github.com/pg-sharding/spqr)
+<br>cancel stale test runs on new push
 
 [ONEARMY/community-platform](https://github.com/ONEARMY/community-platform)
 <br>FieldTextarea minWidth container sizing
@@ -149,11 +161,17 @@
 [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx)
 <br>llms.txt and llms-full.txt for LLM-friendly project context
 
+[echavet/MitsubishiCN105ESPHome](https://github.com/echavet/MitsubishiCN105ESPHome)
+<br>hardware function settings reference links
+
 [pydata/pydata-sphinx-theme](https://github.com/pydata/pydata-sphinx-theme)
 <br>search input keystroke handling after escape dismiss in Safari
 
 [bytechefhq/bytechef](https://github.com/bytechefhq/bytechef)
 <br>LoaderNotification consolidation into shared LoadingIndicator
+
+[editorconfig-checker/editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker)
+<br>--exclude flag usage clarification for multiple patterns
 
 [earthaccess-dev/earthaccess](https://github.com/earthaccess-dev/earthaccess)
 <br>dedicated Supported By page with Zulip acknowledgement
@@ -176,27 +194,6 @@
 [kroxylicious/kroxylicious](https://github.com/kroxylicious/kroxylicious)
 <br>cognitive complexity reduction in AclAuthorizer
 
-[kabirdos/insight-harness](https://github.com/kabirdos/insight-harness)
-<br>prune heavy dirs in extract_permissions_profile to avoid multi-minute hang
-
-[sharkdp/fd](https://github.com/sharkdp/fd) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/sharkdp/fd?style=flat&color=gold)](https://github.com/sharkdp/fd)</sub></sub>
-<br>--ignore-parent option to override --no-ignore-parent
-
-[Taiko2k/Tauon](https://github.com/Taiko2k/Tauon)
-<br>tooltip height scales with gui.scale, Jellyfin URL normalization for trailing slashes
-
-[trustgraph-ai/trustgraph](https://github.com/trustgraph-ai/trustgraph)
-<br>timezone-aware datetime.now migration from deprecated datetime.utcnow
-
-[pg-sharding/spqr](https://github.com/pg-sharding/spqr)
-<br>cancel stale test runs on new push
-
-[echavet/MitsubishiCN105ESPHome](https://github.com/echavet/MitsubishiCN105ESPHome)
-<br>hardware function settings reference links
-
-[editorconfig-checker/editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker)
-<br>--exclude flag usage clarification for multiple patterns
-
 [ArduPilot/MethodicConfigurator](https://github.com/ArduPilot/MethodicConfigurator)
 <br>skip 00_default.param when restarting after final step
 
@@ -206,17 +203,20 @@
 [ChronalLabs/ChronOS](https://github.com/ChronalLabs/ChronOS)
 <br>expense-tracker README entrypoint correction
 
-[Evaliphy/evaliphy](https://github.com/Evaliphy/evaliphy)
-<br>JsonAccumulator handler double-registration
-
 [astradial/astradial](https://github.com/astradial/astradial)
 <br>README badges (license, stars, issues, PRs, contributors, last commit)
+
+[Evaliphy/evaliphy](https://github.com/Evaliphy/evaliphy)
+<br>JsonAccumulator handler double-registration
 
 [vinceblank/claude-tempo](https://github.com/vinceblank/claude-tempo)
 <br>identity guard for STATUS_SCROLL_UP and PICKER_UP actions
 
 [Wondermove-Inc/k-o11y-install](https://github.com/Wondermove-Inc/k-o11y-install)
 <br>Korean to English comment translation in k-o11y-tls
+
+[kabirdos/insight-harness](https://github.com/kabirdos/insight-harness)
+<br>prune heavy dirs in extract_permissions_profile to avoid multi-minute hang
 
 [kshku/Snuk](https://github.com/kshku/Snuk)
 <br>doxygen parser comments
