@@ -179,4 +179,52 @@
 [kabirdos/insight-harness](https://github.com/kabirdos/insight-harness)
 <br>prune heavy dirs in extract_permissions_profile to avoid multi-minute hang
 
-*Last updated: 2026-04-16*
+[sharkdp/fd](https://github.com/sharkdp/fd) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/sharkdp/fd?style=flat&color=gold)](https://github.com/sharkdp/fd)</sub></sub>
+<br>--ignore-parent option to override --no-ignore-parent
+
+[Taiko2k/Tauon](https://github.com/Taiko2k/Tauon)
+<br>tooltip height scales with gui.scale, Jellyfin URL normalization for trailing slashes
+
+[trustgraph-ai/trustgraph](https://github.com/trustgraph-ai/trustgraph)
+<br>timezone-aware datetime.now migration from deprecated datetime.utcnow
+
+[pg-sharding/spqr](https://github.com/pg-sharding/spqr)
+<br>cancel stale test runs on new push
+
+[echavet/MitsubishiCN105ESPHome](https://github.com/echavet/MitsubishiCN105ESPHome)
+<br>hardware function settings reference links
+
+[editorconfig-checker/editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker)
+<br>--exclude flag usage clarification for multiple patterns
+
+[ArduPilot/MethodicConfigurator](https://github.com/ArduPilot/MethodicConfigurator)
+<br>skip 00_default.param when restarting after final step
+
+[Ryan-Millard/Img2Num](https://github.com/Ryan-Millard/Img2Num)
+<br>persist resolved image name in state file on destroy
+
+[ChronalLabs/ChronOS](https://github.com/ChronalLabs/ChronOS)
+<br>expense-tracker README entrypoint correction
+
+[Evaliphy/evaliphy](https://github.com/Evaliphy/evaliphy)
+<br>JsonAccumulator handler double-registration
+
+[astradial/astradial](https://github.com/astradial/astradial)
+<br>README badges (license, stars, issues, PRs, contributors, last commit)
+
+[vinceblank/claude-tempo](https://github.com/vinceblank/claude-tempo)
+<br>identity guard for STATUS_SCROLL_UP and PICKER_UP actions
+
+[Wondermove-Inc/k-o11y-install](https://github.com/Wondermove-Inc/k-o11y-install)
+<br>Korean to English comment translation in k-o11y-tls
+
+[kshku/Snuk](https://github.com/kshku/Snuk)
+<br>doxygen parser comments
+
+[Pawansingh3889/sql-guard](https://github.com/Pawansingh3889/sql-guard)
+<br>W011 union-without-all warning rule
+
+[vericontext/contextix](https://github.com/vericontext/contextix)
+<br>contextix export --format mermaid|json
+
+*Last updated: 2026-04-20*
