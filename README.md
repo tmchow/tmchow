@@ -23,11 +23,11 @@
 [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/DioxusLabs/dioxus?style=flat&color=gold)](https://github.com/DioxusLabs/dioxus)</sub></sub>
 <br>blanket IntoAttributeValue impl for references
 
-[siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/siddharthvaddem/openscreen?style=flat&color=gold)](https://github.com/siddharthvaddem/openscreen)</sub></sub>
-<br>embed AppImage update information for delta updates
-
 [rtk-ai/rtk](https://github.com/rtk-ai/rtk) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/rtk-ai/rtk?style=flat&color=gold)](https://github.com/rtk-ai/rtk)</sub></sub>
 <br>package-level test failure reporting for timeouts and signals in go test summary
+
+[siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/siddharthvaddem/openscreen?style=flat&color=gold)](https://github.com/siddharthvaddem/openscreen)</sub></sub>
+<br>embed AppImage update information for delta updates
 
 [lightpanda-io/browser](https://github.com/lightpanda-io/browser) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/lightpanda-io/browser?style=flat&color=gold)](https://github.com/lightpanda-io/browser)</sub></sub>
 <br>keyUp/char keyboard event propagation, Page.javascriptDialogOpening CDP events
@@ -38,11 +38,11 @@
 [actualbudget/actual](https://github.com/actualbudget/actual) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/actualbudget/actual?style=flat&color=gold)](https://github.com/actualbudget/actual)</sub></sub>
 <br>custom report editor unsaved settings retention
 
-[spicetify/cli](https://github.com/spicetify/cli) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/spicetify/cli?style=flat&color=gold)](https://github.com/spicetify/cli)</sub></sub>
-<br>SVGIcons additions from Spotify's current UI
-
 [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/mvanhorn/last30days-skill?style=flat&color=gold)](https://github.com/mvanhorn/last30days-skill)</sub></sub>
 <br>test env isolation, updatable column validation, bluesky session token expiry handling
+
+[spicetify/cli](https://github.com/spicetify/cli) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/spicetify/cli?style=flat&color=gold)](https://github.com/spicetify/cli)</sub></sub>
+<br>SVGIcons additions from Spotify's current UI
 
 [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/openai/codex-plugin-cc?style=flat&color=gold)](https://github.com/openai/codex-plugin-cc)</sub></sub>
 <br>graceful thread naming fallback for older Codex CLI versions
@@ -67,6 +67,9 @@
 
 [go-git/go-git](https://github.com/go-git/go-git) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/go-git/go-git?style=flat&color=gold)](https://github.com/go-git/go-git)</sub></sub>
 <br>DeleteBranch with full ref names, Worktree.Add with absolute paths
+
+[apache/pinot](https://github.com/apache/pinot) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/apache/pinot?style=flat&color=gold)](https://github.com/apache/pinot)</sub></sub>
+<br>comment typo corrections
 
 [JackChen-me/open-multi-agent](https://github.com/JackChen-me/open-multi-agent) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/JackChen-me/open-multi-agent?style=flat&color=gold)](https://github.com/JackChen-me/open-multi-agent)</sub></sub>
 <br>llama.cpp server local model provider
@@ -103,6 +106,9 @@
 
 [Taiko2k/Tauon](https://github.com/Taiko2k/Tauon)
 <br>tooltip height scales with gui.scale, Jellyfin URL normalization for trailing slashes
+
+[kafbat/kafka-ui](https://github.com/kafbat/kafka-ui)
+<br>analysis view rendering for empty topics in FE
 
 [trustgraph-ai/trustgraph](https://github.com/trustgraph-ai/trustgraph)
 <br>timezone-aware datetime.now migration from deprecated datetime.utcnow
@@ -194,6 +200,9 @@
 [kroxylicious/kroxylicious](https://github.com/kroxylicious/kroxylicious)
 <br>cognitive complexity reduction in AclAuthorizer
 
+[flashbots/contender](https://github.com/flashbots/contender)
+<br>eth denominations for SessionOptions.min_balance
+
 [ArduPilot/MethodicConfigurator](https://github.com/ArduPilot/MethodicConfigurator)
 <br>skip 00_default.param when restarting after final step
 
@@ -209,11 +218,20 @@
 [Evaliphy/evaliphy](https://github.com/Evaliphy/evaliphy)
 <br>JsonAccumulator handler double-registration
 
+[biigle/core](https://github.com/biigle/core)
+<br>sample volume file validation on URL update
+
 [vinceblank/claude-tempo](https://github.com/vinceblank/claude-tempo)
 <br>identity guard for STATUS_SCROLL_UP and PICKER_UP actions
 
+[Arubacloud/sdk-go](https://github.com/Arubacloud/sdk-go)
+<br>compile-time interface assertions
+
 [Wondermove-Inc/k-o11y-install](https://github.com/Wondermove-Inc/k-o11y-install)
 <br>Korean to English comment translation in k-o11y-tls
+
+[zowe/cics-for-zowe-client](https://github.com/zowe/cics-for-zowe-client)
+<br>trailing slash support in USS path hyperlink pattern
 
 [kabirdos/insight-harness](https://github.com/kabirdos/insight-harness)
 <br>prune heavy dirs in extract_permissions_profile to avoid multi-minute hang
@@ -221,10 +239,19 @@
 [kshku/Snuk](https://github.com/kshku/Snuk)
 <br>doxygen parser comments
 
+[Johin2/self-heal](https://github.com/Johin2/self-heal)
+<br>sandbox-import hint in proposer prompt and README
+
+[LennardGeissler/mcp-claude-bridge](https://github.com/LennardGeissler/mcp-claude-bridge)
+<br>multi-line data and event-type test coverage
+
+[crazy-goat/workerman-bundle](https://github.com/crazy-goat/workerman-bundle)
+<br>WorkermanCompilerPass::referenceMap() PHPDoc with typed tags
+
 [Pawansingh3889/sql-guard](https://github.com/Pawansingh3889/sql-guard)
 <br>W011 union-without-all warning rule
 
 [vericontext/contextix](https://github.com/vericontext/contextix)
 <br>contextix export --format mermaid|json
 
-*Last updated: 2026-04-20*
+*Last updated: 2026-04-23*
