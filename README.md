@@ -36,10 +36,10 @@
 <br>query parameter integer overflow handling
 
 [actualbudget/actual](https://github.com/actualbudget/actual) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/actualbudget/actual?style=flat&color=gold)](https://github.com/actualbudget/actual)</sub></sub>
-<br>custom report editor unsaved settings retention, show 'Date is a required field' error when adding without date
+<br>custom report editor unsaved settings retention, show 'Date is a required field' error when adding without date, Add scoped ErrorBoundary to Rules page to contain rendering crashes
 
 [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/mvanhorn/last30days-skill?style=flat&color=gold)](https://github.com/mvanhorn/last30days-skill)</sub></sub>
-<br>test env isolation, updatable column validation, bluesky session token expiry handling, correct plugin name and version in marketplace.json, bump gemini-extension and v3 skill version to 3.0.0 (tied for #5 human contributor)
+<br>test env isolation, updatable column validation, bluesky session token expiry handling, correct plugin name and version in marketplace.json, bump gemini-extension and v3 skill version to 3.0.0, remove orphaned test_exa_search.py, normalize list responses from Bird search, --emit=html for shareable self-contained briefs (tied for #5 human contributor)
 
 [spicetify/cli](https://github.com/spicetify/cli) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/spicetify/cli?style=flat&color=gold)](https://github.com/spicetify/cli)</sub></sub>
 <br>SVGIcons additions from Spotify's current UI, resolve pre-existing Biome lint warnings
@@ -53,8 +53,11 @@
 [gastownhall/gastown](https://github.com/gastownhall/gastown) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/gastownhall/gastown?style=flat&color=gold)](https://github.com/gastownhall/gastown)</sub></sub>
 <br>agent framework research (w-gc-004)
 
+[transmission/transmission](https://github.com/transmission/transmission) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/transmission/transmission?style=flat&color=gold)](https://github.com/transmission/transmission)</sub></sub>
+<br>correct units arrays (5 strings, byte-unit prefix)
+
 [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/MODSetter/SurfSense?style=flat&color=gold)](https://github.com/MODSetter/SurfSense)</sub></sub>
-<br>dead MorePagesDialog removal, unnecessary "use client" pruning from pricing-section, extract duplicate TYPE_ICONS constant into shared module, add passive option to scroll and touch event listeners
+<br>dead MorePagesDialog removal, unnecessary "use client" pruning from pricing-section, extract duplicate TYPE_ICONS constant into shared module, add passive option to scroll and touch event listeners, dedupe upload via anonymousChatApiService
 
 [mdn/content](https://github.com/mdn/content) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/mdn/content?style=flat&color=gold)](https://github.com/mdn/content)</sub></sub>
 <br>module reference corrections in the Modules guide, '1' + 2n BigInt example on Addition page
@@ -68,8 +71,11 @@
 [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/ghostfolio/ghostfolio?style=flat&color=gold)](https://github.com/ghostfolio/ghostfolio)</sub></sub>
 <br>eliminate OnDestroy lifecycle hook from markets page component, Task/remove unused getCategoryName() from rule classes
 
+[PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/PrivateBin/PrivateBin?style=flat&color=gold)](https://github.com/PrivateBin/PrivateBin)</sub></sub>
+<br>left-align status alert text after handleNotification rerender
+
 [raycast/extensions](https://github.com/raycast/extensions) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/raycast/extensions?style=flat&color=gold)](https://github.com/raycast/extensions)</sub></sub>
-<br>Quit Applications process error handling, wrap-text clipboard race condition, Prompts.chat API field rename, [Google Tasks] Fix due date timezone shift, [ray.so] Add missing partner themes to Generate Image settings
+<br>Quit Applications process error handling, wrap-text clipboard race condition, Prompts.chat API field rename, [Google Tasks] Fix due date timezone shift, [ray.so] Add missing partner themes to Generate Image settings, [svgl] Add Copy as Astro Component action, [Letterboxd] Fix genre tag visibility in light mode, [Aerospace] Add "Go to Workspace" command, [Obsidian] Fix Open in New Tab path encoding on Windows
 
 [go-git/go-git](https://github.com/go-git/go-git) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/go-git/go-git?style=flat&color=gold)](https://github.com/go-git/go-git)</sub></sub>
 <br>DeleteBranch with full ref names, Worktree.Add with absolute paths
@@ -104,11 +110,11 @@
 [Martian-Engineering/lossless-claw](https://github.com/Martian-Engineering/lossless-claw)
 <br>preserve text block structure in large toolResult content, backfill tool call metadata (tied for #5 human contributor)
 
-[hectorvent/floci](https://github.com/hectorvent/floci)
-<br>CloudWatch Logs tagging support (ListTagsForResource, TagResource, UntagResource)
-
 [floci-io/floci](https://github.com/floci-io/floci)
 <br>add ListTagsForResource, TagResource, and UntagResource, honor queue-level DelaySeconds on FIFO queues
+
+[hectorvent/floci](https://github.com/hectorvent/floci)
+<br>CloudWatch Logs tagging support (ListTagsForResource, TagResource, UntagResource)
 
 [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade)
 <br>gup exclude config
@@ -146,17 +152,26 @@
 [data-engineering-community/data-engineering-wiki](https://github.com/data-engineering-community/data-engineering-wiki)
 <br>update broken Mage documentation links (tied for #10 human contributor)
 
+[stablyai/orca](https://github.com/stablyai/orca)
+<br>differentiate 'active' vs 'done' status colors, generate worktree setup-runner from target worktree's orca.yaml (tied for #8 human contributor)
+
 [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold)
 <br>bulk action buttons above problems table
+
+[esp-rs/esp-hal](https://github.com/esp-rs/esp-hal)
+<br>/test-size loses last chip when comment has trailing newline
+
+[carapace-sh/carapace-bin](https://github.com/carapace-sh/carapace-bin)
+<br>nh: initial completer
 
 [stacklok/toolhive](https://github.com/stacklok/toolhive)
 <br>Ready printer column for MCPRemoteProxy CRD, CRD Conditions listType annotations, rename BackendAuthType enum value to camelCase
 
+[Agent-Field/agentfield](https://github.com/Agent-Field/agentfield)
+<br>per-execution LLM cost tracking, OpenTelemetry distributed tracing export, add tests for TypeScript SDK utils (pattern, schema, httpAgents), break tool-call loop early on asyncio.TimeoutError, handle missing function.arguments in execute_tool_call_loop, extract shared ErrorResponse helper to handlers/errors.go, add godoc comments to StorageProvider interface methods, replace emoji logging with structured zerolog in memory handler
+
 [embox/embox](https://github.com/embox/embox)
 <br>tests/libc bzero() coverage
-
-[Agent-Field/agentfield](https://github.com/Agent-Field/agentfield)
-<br>per-execution LLM cost tracking, OpenTelemetry distributed tracing export, add tests for TypeScript SDK utils (pattern, schema, httpAgents), break tool-call loop early on asyncio.TimeoutError
 
 [jaegertracing/jaeger-ui](https://github.com/jaegertracing/jaeger-ui)
 <br>convert SpanGraph to functional component
@@ -186,7 +201,7 @@
 <br>typo corrections in error messages and variable names
 
 [owasp-noir/noir](https://github.com/owasp-noir/noir)
-<br>JSP analyzer pattern corrections, Consolidate duplicate Endpoint initializers using default parameters, Redirect miniparser debug output from STDOUT to STDERR
+<br>JSP analyzer pattern corrections, Consolidate duplicate Endpoint initializers using default parameters, Redirect miniparser debug output from STDOUT to STDERR, Use idiomatic .empty? instead of .size > 0 in optimizer, Remove unnecessary `require "regex"` in graphql_analyzer.cr, log errors from bare rescue blocks in config_initializer, log regex compilation failures in matchers, extract hardcoded error truncation length to constant
 
 [collective/icalendar](https://github.com/collective/icalendar)
 <br>add edge case coverage for Conference parameter normalization
@@ -197,11 +212,11 @@
 [OSGeo/grass](https://github.com/OSGeo/grass)
 <br>auto-seed rand() when no seed provided to grass.script.raster
 
-[OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave)
-<br>Update manufacturer_specific.xml
-
 [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync)
 <br>programmatic API code quality improvements, add .gitattributes + linguist-generated workaround for PR diff noise
+
+[OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave)
+<br>Update manufacturer_specific.xml
 
 [seddonym/import-linter](https://github.com/seddonym/import-linter)
 <br>clear error when root_package is a single-file module
@@ -236,6 +251,9 @@
 [Mnehmos/mnehmos.multi-agent.framework](https://github.com/Mnehmos/mnehmos.multi-agent.framework)
 <br>allow code mode to edit `tsx` files (#2 human contributor)
 
+[MartinPacker/md2pptx](https://github.com/MartinPacker/md2pptx)
+<br>fall back to python-pptx built-in template when configured template is missing (tied for #5 human contributor)
+
 [geojupyter/jupytergis](https://github.com/geojupyter/jupytergis)
 <br>FilterRow type safety improvements, open existing france_hiking project instead of creating one
 
@@ -244,6 +262,9 @@
 
 [JakeWharton/mkvdts2ac3](https://github.com/JakeWharton/mkvdts2ac3)
 <br>checkerror parameter handling, AC3 track detection (#10 human contributor)
+
+[JeffSteinbok/hass-dreo](https://github.com/JeffSteinbok/hass-dreo)
+<br>add region selector for non-US Dreo accounts
 
 [kroxylicious/kroxylicious](https://github.com/kroxylicious/kroxylicious)
 <br>cognitive complexity reduction in AclAuthorizer
@@ -270,7 +291,7 @@
 <br>skip 00_default.param when restarting after final step
 
 [Amplitude-Developer-Docs/amplitude-dev-center](https://github.com/Amplitude-Developer-Docs/amplitude-dev-center)
-<br>Remove unnecessary statement in Session tracking, Clarify user_properties for $identify event
+<br>Remove unnecessary statement in Session tracking, Clarify user_properties for $identify event, `minIdLength` option was incorrectly named in description, Update description for `flushIntervalMillis`
 
 [Ryan-Millard/Img2Num](https://github.com/Ryan-Millard/Img2Num)
 <br>persist resolved image name in state file on destroy
@@ -284,14 +305,14 @@
 [elaniin/AccountKit-Web-PHP](https://github.com/elaniin/AccountKit-Web-PHP)
 <br>Viewport fixes for mobile (tied for #3 human contributor)
 
+[astradial/astradial](https://github.com/astradial/astradial)
+<br>README badges (license, stars, issues, PRs, contributors, last commit) (tied for #2 human contributor)
+
 [dmacias72/unRAID-plugins](https://github.com/dmacias72/unRAID-plugins)
 <br>Updating lftp from 4.7.2 to 4.7.3 (#4 human contributor)
 
 [Frachtwerk/essencium-backend](https://github.com/Frachtwerk/essencium-backend)
 <br>enforce ownership access control on terminate endpoint
-
-[astradial/astradial](https://github.com/astradial/astradial)
-<br>README badges (license, stars, issues, PRs, contributors, last commit) (tied for #2 human contributor)
 
 [Evaliphy/evaliphy](https://github.com/Evaliphy/evaliphy)
 <br>JsonAccumulator handler double-registration (tied for #3 human contributor)
@@ -310,6 +331,9 @@
 
 [Arubacloud/sdk-go](https://github.com/Arubacloud/sdk-go)
 <br>compile-time interface assertions (tied for #5 human contributor)
+
+[memtomem/memtomem](https://github.com/memtomem/memtomem)
+<br>hide 'b: back' on first step where back is a no-op (tied for #7 human contributor)
 
 [Wondermove-Inc/k-o11y-install](https://github.com/Wondermove-Inc/k-o11y-install)
 <br>Korean to English comment translation in k-o11y-tls (#2 human contributor)
@@ -350,4 +374,4 @@
 [wingify/vwo-amplitude-integration](https://github.com/wingify/vwo-amplitude-integration)
 <br>refactor and improve error handling (tied for #2 human contributor)
 
-*Last updated: 2026-04-29*
+*Last updated: 2026-05-04*
