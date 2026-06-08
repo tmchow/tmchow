@@ -4,7 +4,7 @@
 
 ## Social Links
 
-[website](https://trev.in)  •  [github](https://github.com/tmchow)  •  [threads](https://threads.net/trevin)  •  [X](https://x.com/trevin)
+[website](https://trev.in)  •  [X](https://x.com/trevin)  •  [linkedin](https://linkedin/in/trevin)  •  [blog/newsletter](https://trevinsays.com)
 
 ## What I'm building
 
