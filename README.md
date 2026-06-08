@@ -1,6 +1,6 @@
 # Hi, I'm Trevin 👋
 
-**4x CPO / VP Product with 25+ years in Product & Design — now full-time on the keyboard, building with AI.**
+4x CPO / VP Product with 25+ years in Product & Design — now full-time nerding out building with AI.
 
 ## Social Links
 
