@@ -19,6 +19,7 @@
 
 ## Contributing to
 
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/mvanhorn/last30days-skill?style=flat&color=gold)](https://github.com/mvanhorn/last30days-skill)</sub></sub>
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/NousResearch/hermes-agent?style=flat&color=gold)](https://github.com/NousResearch/hermes-agent)</sub></sub>
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/rtk-ai/rtk?style=flat&color=gold)](https://github.com/rtk-ai/rtk)</sub></sub>
 - [sharkdp/fd](https://github.com/sharkdp/fd) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/sharkdp/fd?style=flat&color=gold)](https://github.com/sharkdp/fd)</sub></sub>
