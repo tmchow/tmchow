@@ -14,6 +14,9 @@
 [mvanhorn/printing-press-library](https://github.com/mvanhorn/printing-press-library) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/mvanhorn/printing-press-library?style=flat&color=gold)](https://github.com/mvanhorn/printing-press-library)</sub></sub>
 <br>The official catalog of printed CLIs — commerce, marketing, AI, travel, and more.
 
+[tmchow/illo-skill](https://github.com/tmchow/illo-skill) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/tmchow/illo-skill?style=flat&color=gold)](https://github.com/tmchow/illo-skill)</sub></sub>
+<br>Agent skill for character consistent illustrations.
+
 [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/EveryInc/compound-engineering-plugin?style=flat&color=gold)](https://github.com/EveryInc/compound-engineering-plugin)</sub></sub>
 <br>Compound Engineering for Claude Code, Codex, and more. _(maintainer)_
 
