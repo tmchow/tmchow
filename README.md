@@ -18,6 +18,7 @@
 <br>Self-hosted agent native file and prototype hosting
 
 [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/mvanhorn/last30days-skill?style=flat&color=gold)](https://github.com/mvanhorn/last30days-skill)</sub></sub>
+<br>AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 
 [mvanhorn/cli-printing-press](https://github.com/mvanhorn/cli-printing-press) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/mvanhorn/cli-printing-press?style=flat&color=gold)](https://github.com/mvanhorn/cli-printing-press)</sub></sub>
 <br>Turn any API into an agent-native CLI and MCP server.
