@@ -17,7 +17,7 @@
 [tmchow/energon](https://github.com/tmchow/energon) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/tmchow/energon?style=flat&color=gold)](https://github.com/tmchow/energon)</sub></sub>
 <br>Self-hosted agent native file and prototype hosting
 
-- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/mvanhorn/last30days-skill?style=flat&color=gold)](https://github.com/mvanhorn/last30days-skill)</sub></sub>
+[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/mvanhorn/last30days-skill?style=flat&color=gold)](https://github.com/mvanhorn/last30days-skill)</sub></sub>
 
 [mvanhorn/cli-printing-press](https://github.com/mvanhorn/cli-printing-press) <sub><sub>[![GitHub stars](https://img.shields.io/github/stars/mvanhorn/cli-printing-press?style=flat&color=gold)](https://github.com/mvanhorn/cli-printing-press)</sub></sub>
 <br>Turn any API into an agent-native CLI and MCP server.
